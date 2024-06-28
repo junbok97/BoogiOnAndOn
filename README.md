@@ -17,7 +17,7 @@
   <td><img src="https://github.com/junbok97/BoogiOnAndOn/assets/71696675/62c786f4-4103-42fc-b6ad-71fcf88144f9"></td>
   <td><img src="https://github.com/junbok97/BoogiOnAndOn/assets/71696675/c85ffca3-aef4-4506-b986-c5580d596018"></td>
   <td><img src="https://github.com/junbok97/BoogiOnAndOn/assets/71696675/58fbea9c-3cc1-4b35-91c3-8ad913e7be30"></td>
-  <td><img src = src="https://github.com/junbok97/BoogiOnAndOn/assets/71696675/d6410e40-76c7-49f4-bad0-54714b616552"></td>
+  <td><img src="https://github.com/junbok97/BoogiOnAndOn/assets/71696675/d6410e40-76c7-49f4-bad0-54714b616552"></td>
 </tr>
   
 </table>
